@@ -1,6 +1,5 @@
 # Trilha JS Developer - Pokedex
 
-
 ## Pokedex Web App
 
 This is a simple Pokedex web application built using HTML, CSS, and JavaScript. The app retrieves data from the [PokeAPI](https://pokeapi.co/) and displays a list of Pokemon with their names, numbers, types, and images.
@@ -26,7 +25,3 @@ The app uses the following dependencies:
 * `assets/js/main.js` - The main JavaScript file for the app. Contains code for fetching and displaying Pokemon data.
 * `assets/js/poke-api.js` - A JavaScript file containing code for interfacing with the PokeAPI.
 * `assets/js/pokemon-model.js` - A JavaScript file containing the `Pokemon` class definition used in the app.
-
-### Acknowledgments
-
-This app was created as part of a coding challenge by [digitalinnovationone](https://github.com/digitalinnovationone) and was inspired by various Pokedex apps and websites.
